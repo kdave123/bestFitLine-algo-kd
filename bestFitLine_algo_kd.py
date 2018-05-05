@@ -22,7 +22,7 @@ def makeline(x,y):
         midy = ((y[i] + y[i + 1]) / 2)
         newx = np.append(newx, midx)
         newy = np.append(newy, midy)
-    # Keep calculating mid-points of points and join midpoints, loopover. untill only 2 points are left in array
+    # Keep calculating mid-points of points and join midpoints, call recursively. untill only 2 points are left in array
     if (len(newx) > 2):
         newx, newy = makeline(newx, newy)
     return newx,newy
