@@ -16,3 +16,9 @@ Program:
 2. enter x train and y train
 3. Plotted datapoints, to understand data points on plane and plotting best fit line.
 5. Output : 2 points (bestfitline) ,Slope , y-intercept.
+
+
+#
+another best fit line algo, alternative 
+Machine Learning algorithms
+Regression lines
