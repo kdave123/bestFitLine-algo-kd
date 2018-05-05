@@ -3,6 +3,7 @@ Finding best fit line for given datapoints with a different approach
 
 Find midpoints for all given consecutive data points, call method recursivly untill only two points are left.
 Connect two points .ie our best fit line.
+![bestfitline](bestfitlinemidpoint.bmp)
 
 Close Approx. results when compared to other algorithm (gradient decent, mean mean method, least square method)
 
