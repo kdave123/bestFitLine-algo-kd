@@ -5,7 +5,7 @@ Find midpoints for all given consecutive data points, call method recursivly unt
 Connect two points .ie our best fit line.
 ![bestfitline](bestfitlinemidpoint.bmp)
 
-Close Approx. results when compared to other algorithm (gradient decent, mean mean method, least square method)
+Close Approx. results when compared to other algorithm (gradient decent, least square method, mean mean method,)
 
 Which Algorithm calculates best "best fit line"?
 
