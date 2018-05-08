@@ -1,11 +1,16 @@
 # bestFitLine-algo-kd
 Finding best fit line for given datapoints with a different approach 
 
+Supervied Machine Learning Algorithm
+
+Linear Regression for Univariate, Unique Feature Variables.
+
+
 Find midpoints for all given consecutive data points, call method recursivly untill only two points are left.
 Connect two points .ie our best fit line.
 ![bestfitline](bestfitlinemidpoint.bmp)
 
-Close Approx. results when compared to other algorithm (gradient decent, least square method, mean mean method,)
+Close Approx. results when compared to other algorithm (gradient decent least square method, mean mean method,)
 
 Which Algorithm calculates best "best fit line"?
 
