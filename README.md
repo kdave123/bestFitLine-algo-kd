@@ -14,7 +14,7 @@ Close Approx. results when compared to other algorithm (gradient decent least sq
 
 Which Algorithm calculates best "best fit line"?
 
-Depends on which algorithm results are predicting results accurately.
+Depends on which algorithm results are predicting results accurately for provided data set.
 
 Program: 
 1. Sample 2-dimentional data
